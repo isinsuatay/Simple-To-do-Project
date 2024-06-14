@@ -7,8 +7,7 @@ LinkedIn: (https://www.linkedin.com/in/%C4%B1%C5%9F%C4%B1nsu-atay-948496299/)
 This project is a simple to-do list application implemented in Motoko for the Internet Computer. It allows users to add, complete, and view to-do items.
 
 ## Smart Contract Address
-The smart contract address will be available after deployment.
-
+[The smart contract address will be available after deployment.](http://127.0.0.1:8100/?canisterId=bd3sg-teaaa-aaaaa-qaaba-cai&id=bkyz2-fmaaa-aaaaa-qaaaq-cai)
 ## Installation Prerequisites
 - Install the Internet Computer SDK (IC SDK)
 - Install Node.js
