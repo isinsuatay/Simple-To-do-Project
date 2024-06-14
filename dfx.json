@@ -1,0 +1,24 @@
+{
+  "canisters": {
+    "simple_to_do": {
+      "main": "src/simple_to_do/Main.mo",
+      "type": "motoko",
+      "id": "bkyz2-fmaaa-aaaaa-qaaaq-cai" 
+
+    }
+  },
+  "dfx": "0.20.1",
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8100", 
+      "type": "ephemeral"
+    },
+    "ic": {
+      "providers": [
+        "https://ic0.app"
+      ],
+      "type": "persistent"
+    }
+  },
+  "version": 1
+}

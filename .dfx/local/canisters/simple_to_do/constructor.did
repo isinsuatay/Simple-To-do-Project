@@ -1,0 +1,5 @@
+service : {
+  addTodo: (text) -> ();
+  completeTodo: (nat) -> ();
+  showTodos: () -> (text);
+}

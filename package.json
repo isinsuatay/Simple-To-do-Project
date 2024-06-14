@@ -1,0 +1,10 @@
+{
+    "scripts": {
+      "start": "dfx start --background",
+      "deploy": "dfx deploy"
+    },
+    "devDependencies": {
+      "dfx": "0.20.1"
+    }
+  }
+  

@@ -1,0 +1,5 @@
+// Version: 1.0.0
+type Todo = {completed : Bool; description : Text; id : Nat};
+actor {
+  stable var todos : [Todo]
+};
